@@ -22,4 +22,10 @@
     font-weight: bold; 
     
 }
- 
+
+ @media (max-width:567px) {
+ .elem4 {
+    color: red; 
+    order: -1;
+}
+ }
